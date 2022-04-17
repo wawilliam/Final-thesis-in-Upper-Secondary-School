@@ -14,3 +14,6 @@ The project will be concluded with a presentation that will take place in May 20
 
 
 ![IMG_20180511_140339_657](https://user-images.githubusercontent.com/25347691/163711846-0c498ae6-91e1-40f4-ad2f-21386aaadecf.jpeg)
+
+
+<img width="552" alt="CAD - robot arm" src="https://user-images.githubusercontent.com/25347691/163712023-05546a22-8983-472e-ab81-f348ac7317da.png">
