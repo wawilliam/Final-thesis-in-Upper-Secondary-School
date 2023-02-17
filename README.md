@@ -7,7 +7,7 @@ see the prototype working in real-time. The project also summarizes what I have 
 through these three years. The main goal for the project is to have a full working 4-axis robot
 arm. Through the development the main purpose is to grow my experience with developing
 robots and also get an upper high school examination. The most common technical pieces such as,
-Physical, Computer aided design, mechatronics, electronics, microprocessors, mathematics
+physics, computer aided design, mechatronics, electronics, microprocessors, mathematics
 and a few steps through the process of developing a product will be included.
 
 The project will be concluded with a presentation that will take place in May 2018.
